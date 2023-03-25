@@ -39,3 +39,5 @@ Read the [`CONTRIBUTING.md`](https://github.com/microservices-march/platform/blo
 [Apache License, Version 2.0](https://github.com/microservices-march/platform/blob/main/LICENSE)
 
 &copy; [F5 Networks, Inc.](https://www.f5.com/) 2023
+
+by RGT
